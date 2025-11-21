@@ -1,0 +1,4 @@
+delivery_id,date,route,miles,delivered_on_time
+1,2025-11-20,Route A,32,yes
+2,2025-11-20,Route B,27,no
+3,2025-11-21,Route A,18,yes
