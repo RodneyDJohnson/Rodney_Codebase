@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# macOS system files
+.DS_Store
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+tmp/
+temp/
+
+# Data files that should not go public
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Reports or auto-generated outputs
+reports/
+exports/
+
+
+
+ 
+
+
+
